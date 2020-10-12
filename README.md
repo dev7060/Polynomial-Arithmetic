@@ -1,2 +1,2 @@
-# Polynomial-Addition
-Polynomial addition using linked list.
+# Polynomial-Arithmetic
+Using linked list.
